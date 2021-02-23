@@ -1,8 +1,7 @@
 ---
 title: Misinformation Lab
 role: School of Psychology, Deakin University
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests: []
 social: []
 organizations: []
