@@ -1,13 +1,11 @@
 ---
-abstract: "Amy Wanschers, Rebbekah Neale, Mathew Ling & Emily Kothe. How do
-  participants want their data handled: does data sensitivity or data type
-  matter?"
+abstract: "How do participants want their data handled: does data sensitivity or
+  data type matter?"
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: "Amy Wanschers, Rebbekah Neale, Mathew Ling & Emily Kothe. How do
-  participants want their data handled: does data sensitivity or data type
-  matter?"
+title: "How do participants want their data handled: does data sensitivity or
+  data type matter?"
 location: Melbourne
 date: 2019-11-04T13:00:00.000Z
 date_end: 2019-11-05T13:00:00.000Z
@@ -16,7 +14,10 @@ event: Association for Interdisciplinary Meta-Research and Open Science
 event_url: aimos2019.com
 featured: false
 authors:
-  - emily-kothe
+  - Amy Wanschers
+  - Rebbekah Neale
+  - Mathew Ling
+  - Emily Kothe
 url_video: ""
 url_slides: ""
 address:
