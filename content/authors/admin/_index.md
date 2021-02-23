@@ -5,8 +5,6 @@ bio: ""
 interests: []
 social: []
 organizations: []
-education:
-  courses: []
 email: ""
 superuser: true
 highlight_name: false
