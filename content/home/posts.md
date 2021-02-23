@@ -2,7 +2,7 @@
 widget: pages
 widget_id: news
 headless: true
-weight: 40
+weight: 50
 title: Recent Posts
 subtitle: null
 content:
