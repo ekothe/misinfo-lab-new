@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-
+weight: 50
 title: Staff and Students
 
 content:
