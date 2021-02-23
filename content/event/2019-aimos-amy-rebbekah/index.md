@@ -20,10 +20,7 @@ url_video: ""
 url_slides: ""
 links: []
 publishDate: 2017-01-01T00:00:00.000Z
-tags: []
-projects:
-  - emily-kothe
-  - mathew-ling
+tags: [emily-kothe, mathew-ling]
 image:
   caption: ""
   focal_point: Right
