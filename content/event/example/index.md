@@ -16,7 +16,7 @@ event: Association for Interdisciplinary Meta-Research and Open Science
 event_url: aimos2019.com
 featured: false
 authors:
-  - EmilyKothe
+  - emily-kothe
 url_video: ""
 url_slides: ""
 address:
