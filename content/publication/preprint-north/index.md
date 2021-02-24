@@ -26,7 +26,7 @@ publication_types: ["3"]
 publication: Preprint
 publication_short: Preprint
 
-abstract: Lorem ipsum
+abstract: This exploratory study assessed preference rankings for definitions of veganism used by vegan advocacy groups across an Australian convenience sample of three dietary groups (vegan = 230, omnivore = 117, vegetarian = 43).
 
 # Summary. An optional shortened abstract.
 summary: This exploratory study assessed preference rankings for definitions of veganism used by vegan advocacy groups across an Australian convenience sample of three dietary groups (vegan = 230, omnivore = 117, vegetarian = 43). 
@@ -62,7 +62,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:[]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
