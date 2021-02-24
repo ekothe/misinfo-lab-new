@@ -1,8 +1,8 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-weight: 50
-title: Staff and Students
+weight: 20
+title: Lab Members
 
 content:
   # Choose which groups/teams of users to display.
