@@ -1,10 +1,14 @@
 ---
 title: Climate change denial: the effects of ideological polarisation and threat
-date: "2017-06-16T00:00:00Z"
+
+
 publication_types:
   - "7"
 authors:
   - eddie-clarke
+
+date: "2017-07-16T00:00:00Z"
+
 doi: http://hdl.handle.net/10536/DRO/DU:30105455
 publication: ""
 publication_short: ""
