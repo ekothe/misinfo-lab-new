@@ -1,5 +1,5 @@
 ---
-title: "Validation of a Novel Climate Change Denial Measure Using Item Response Theory"
+title: "The role of ideological attitudes in responses to COVID-19 threat and government restrictions in Australia"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
