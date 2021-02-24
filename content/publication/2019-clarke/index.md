@@ -1,10 +1,15 @@
 ---
 title: Mitigation system threat partially mediates the effects of right‐wing
   ideologies on climate change beliefs
+date: "2019-03-19T00:00:00Z"
 publication_types:
   - "2"
 authors:
   - eddie-clarke
+  - mathew-ling
+  - emily-kothe
+  - anna-klas
+  - Ben Richardson
 doi: https://doi.org/10.1111/jasp.12585
 publication: Journal of Applied Social Psychology
 publication_short: ""
