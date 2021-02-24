@@ -7,7 +7,7 @@ title: "Validation of a Novel Climate Change Denial Measure Using Item Response 
 authors:
 - eddie-clarke
 - anna-klas
-- emily-dyos
+- Emily Dyos
 
 # Paper publication date
 date: "2021-06-01T00:00:00Z"
