@@ -9,6 +9,9 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - emily-kothe
+ - mathew-ling
 ---
 We presented a protocol poster at ASBHM/CHP this year.
 

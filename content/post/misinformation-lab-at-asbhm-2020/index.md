@@ -7,6 +7,16 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+  - mathew-ling
+  - student-anna-jackson
+  - student-madison-matthews
+  - student-kalpana-sweety-simon-durai
+  - student-ian-benjamin
+  - student-kate-adamson
+  - student-nathan-holden
+  - student-phoebe-leung
+  - emily-kothe
 ---
 The Misinformation Lab had a smaller presence at the Australasian Society of Behavioural Medicine with Emily off on maternity leave (this is the first ASBHM she has missed since she started going in 2008!). Nevertheless - we were happy to get the opportunity to share data from some projects we've had 4th year students working on for the last few years
 

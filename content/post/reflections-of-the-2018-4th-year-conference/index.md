@@ -1,5 +1,5 @@
 ---
-title: Reflections of the 2018 4th Year Conference
+title: Reflections on the 2018 4th Year Conference
 subtitle: ""
 date: 2018-10-15T04:06:00.000Z
 draft: false
@@ -8,6 +8,11 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+  - student-george-loram
+  - student-andrew-head
+  - student-madison-matthews
+  - student-anna-jackson
 ---
 Every year the School of Psychology at Deakin University holds a conference for our 4th year students. Students develop a conference poster based on their research project and present it to their fellow students, friends, family, and academic staff. It marks the end of their 4th year candidature and is a great way to end the year. 
 

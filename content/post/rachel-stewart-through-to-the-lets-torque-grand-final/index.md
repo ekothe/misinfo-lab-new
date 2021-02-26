@@ -8,6 +8,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - student-rachel-stewart
 ---
 4th year student Rachel Stewart has made it through to the Grand Final of the Let's Torque Competition.
 

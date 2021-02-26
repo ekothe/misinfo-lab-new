@@ -7,6 +7,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - maddie-north
 ---
 Congratulations are in order once again to Misinformation Lab HDR student, Maddie North, who completed her Confirmation of Candidature today.
 

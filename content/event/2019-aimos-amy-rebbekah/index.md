@@ -12,15 +12,14 @@ all_day: true
 event: Association for Interdisciplinary Meta-Research and Open Science
 featured: false
 authors:
-  - Amy Wanschers
-  - Rebbekah Neale
-  - Mathew Ling
-  - Emily Kothe
+  - student-amy-wanschers
+  - student-rebbekah-mcdonald-neale
+  - mathew-ling
+  - emily-kothe
 url_video: ""
 url_slides: ""
 links: []
 publishDate: 2017-01-01T00:00:00.000Z
-tags: [emily-kothe, mathew-ling]
 image:
   caption: ""
   focal_point: Right

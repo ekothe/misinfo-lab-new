@@ -7,6 +7,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - emily-kothe
 ---
 Lab member Emily Kothe presented at James Cook University as part of the Jocelyn Wale Seminar Series. It was Emily’s first visit to Townsville and she appreciated the opportunity to speak with the outstanding staff and students in the School of Psychology there.
 

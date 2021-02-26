@@ -8,6 +8,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - eddie-clarke
 ---
 Congratulations to Eddie Clarke on formally graduating his PhD today.
 

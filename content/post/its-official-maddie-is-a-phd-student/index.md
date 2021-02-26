@@ -7,6 +7,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - maddie-north
 ---
 After a fantastic confirmation of candidature presentation, we’re pleased to congratulate Maddie North who has successfully upgraded from a Masters by Research to a PhD.
 

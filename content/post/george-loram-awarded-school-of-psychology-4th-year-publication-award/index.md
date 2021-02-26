@@ -8,6 +8,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - student-george-loram
 ---
 Congratulations to 2018 Misinformation Lab Honours Student, George Loram, who was awarded a School of Psychology 4th Year Publication Award.
 

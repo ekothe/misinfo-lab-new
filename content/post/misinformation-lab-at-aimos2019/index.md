@@ -9,6 +9,13 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+  - student-rebbekah-mcdonald-neale
+  - student-amy-wanschers
+  - matt-mackay
+  - emily-kothe
+  - anna-klas
+  - mathew-ling
 ---
 The inaugural meeting of the Association for Interdisciplinary Meta-Research and Open Science was held at the University of Melbourne last week and the Misinformation Lab was lucky to be there in force with Rebbekah McDonald Neale, Matt Mackay, Emily Kothe, Anna Klas and Mathew Ling.
 

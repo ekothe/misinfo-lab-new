@@ -9,5 +9,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - anna-klas
 ---
 The award is for Anna’s PhD thesis entitled “Pro-environmentalism: Environmentalist Social Identity, Environmentalist Stereotypes, and Green Consumerism Engagement” which she submitted in October 2016 and graduated from in June 2017.

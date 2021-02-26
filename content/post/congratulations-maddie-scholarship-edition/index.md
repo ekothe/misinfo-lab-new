@@ -8,5 +8,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - maddie-north
 ---
 We just wanted to congratulate Maddie North on receiving a PhD scholarship! Maddie has been studying and working part-time during her PhD, and now with a scholarship she can spend more time on her PhD and less time marking papers

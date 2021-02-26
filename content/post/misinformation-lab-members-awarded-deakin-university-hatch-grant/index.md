@@ -8,6 +8,9 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - emily-kothe
+ - mathew-ling
 ---
 Misinformation Lab members Emily Kothe and Mathew Ling were awarded a 2018 HaTCH grant for their project “Identifying Effective Persuasive Messages for Vaccination and Climate Change Denial”.
 

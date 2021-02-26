@@ -9,6 +9,10 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+  - eddie-clarke
+  - anna-klas
+  - emily-kothe
 ---
 Eddie Clarke, Anna Klas, and Emily Kothe will all be heading over to Wellington for SASP2018 in early April.
 

@@ -8,6 +8,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - student-rachel-stewart
 ---
 Congratulations to Rachel who's made it to the Semi-finals of Let's Torque for 2020!
 

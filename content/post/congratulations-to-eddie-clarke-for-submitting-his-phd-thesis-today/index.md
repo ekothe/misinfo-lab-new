@@ -8,5 +8,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - eddie-clarke
 ---
 Eddie’s thesis “Climate Change Denial: The Effects of Ideological Polarisation and Threat” is now under examination and we’re thrilled!

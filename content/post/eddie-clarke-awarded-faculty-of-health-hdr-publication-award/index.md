@@ -8,6 +8,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - eddie-clarke
 ---
 
 Congratualtions to Eddie Clarke who was awarded the Deakin University Faculty of Health HDR Publication Award.

@@ -9,6 +9,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - student-george-loram
 ---
 Honors student George Loram (Misinformation Lab) has reached the grand final of the “Let’s Torque” Science communication contest. 
 

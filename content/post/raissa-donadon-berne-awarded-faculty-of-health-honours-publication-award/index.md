@@ -8,6 +8,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - student-raissa-donadon-berne
 ---
 Congratulations to 2018 Misinformation Lab Honours Student, Raissa Donadon Berne, who was awarded a Deakin University Faculty of Health Honours Publication Award.
 

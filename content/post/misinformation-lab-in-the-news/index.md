@@ -8,5 +8,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+authors:
+ - eddie-clarke
 ---
 Lab Member Dr Eddie Clarke recently spoke to Harry Hookey from Gippslandia about climate change and bushfires. [Read the article to see what Eddie had to say.](https://gippslandia.com.au/articles/like-wildfire)
