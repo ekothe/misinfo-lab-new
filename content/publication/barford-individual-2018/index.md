@@ -6,7 +6,7 @@ authors:
  - kate-barford
  - Kirill Fayn
  - Paul J Silvia
-- Luke D Smillie
+ - Luke D Smillie
 publication_types: ["2"]
 abstract: ""
 featured: false
