@@ -1,15 +1,14 @@
 ---
-title: "Amy Wanschers, Rebbekah Neale, Mathew Ling & Emily Kothe. How do participants want their data handled: does data sensitivity or data type matter?"
+title: "Andy Head, George Loram, Mathew Ling. Validation of a Measure of Vaccine Hesitancy Using Item Response Theory"
 
 # Authors
 authors:
-- student-amy-wanschers
-- student-rebbekah-mcdonald-neale
+- student-andrew-head
+- student-george-loram
 - mathew-ling
-- emily-kothe
 
 # Paper publication date
-date: "2019-11-06T00:00:00Z"
+date: "2019-04-06T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-10-01T00:00:00Z"
@@ -20,5 +19,6 @@ publishDate: "2019-10-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-location: Association for Interdisciplinary Meta-Research and Open Science
+location: Society for Australasian Social Psychologists
+
 ---

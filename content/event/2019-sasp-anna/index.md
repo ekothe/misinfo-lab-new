@@ -1,15 +1,14 @@
 ---
-title: "Amy Wanschers, Rebbekah Neale, Mathew Ling & Emily Kothe. How do participants want their data handled: does data sensitivity or data type matter?"
+title: "Anna Klas, Edward Clarke, Mathew Ling. Employing National Identity Loss Frames as a way to Increase Climate Change Action across the Political Spectrum"
 
 # Authors
 authors:
-- student-amy-wanschers
-- student-rebbekah-mcdonald-neale
+- anna-klas
+- eddie-clarke
 - mathew-ling
-- emily-kothe
 
 # Paper publication date
-date: "2019-11-06T00:00:00Z"
+date: "2019-04-06T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-10-01T00:00:00Z"
@@ -20,5 +19,5 @@ publishDate: "2019-10-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-location: Association for Interdisciplinary Meta-Research and Open Science
+location: Society for Australasian Social Psychologists
 ---
