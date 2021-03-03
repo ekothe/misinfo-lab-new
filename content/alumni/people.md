@@ -1,15 +1,17 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
-weight: 25
-title: Students
+weight: 20
+title: Past Students
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - 4th year 2020
-    
+    - 4th year 2019
+    - 4th year 2018
+    - 4th year 2017
 design:
   # Show user's social networking links? (true/false)
   show_social: false
@@ -20,4 +22,3 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: true
 ---
-Visit the alumni page for a list of [all students](./alumni/) who have worked in the lab.
