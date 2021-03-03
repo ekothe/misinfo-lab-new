@@ -2,7 +2,7 @@
 title: "The Influence of Confidence in Memory on Checking Behaviours."
 date: 2011-01-01
 publishDate: 2021-02-26T05:49:02.928731Z
-authors: ["H. Jennings", "M. Nedeljkovic", "R. Moulding"]
+authors: ["H. Jennings", "M. Nedeljkovic", "richard-moulding"]
 publication_types: ["2"]
 abstract: ""
 featured: false

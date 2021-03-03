@@ -2,7 +2,7 @@
 title: "Experimental analysis of the relationship between depressed mood and compulsive buying"
 date: 2013-01-01
 publishDate: 2021-02-26T05:49:02.539432Z
-authors: ["M. Kyrios", "P. Mcqueen", "R. Moulding"]
+authors: ["M. Kyrios", "P. Mcqueen", "richard-moulding"]
 publication_types: ["2"]
 abstract: ""
 featured: false
