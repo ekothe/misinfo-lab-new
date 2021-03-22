@@ -21,3 +21,5 @@ design:
   show_organizations: true
 ---
 Visit the alumni page for a list of [all students](./alumni/) who have worked in the lab.
+
+For information about training opportunities in the lab visit our [training](./training/) page.
