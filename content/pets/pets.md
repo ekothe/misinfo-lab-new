@@ -2,18 +2,15 @@
 widget: people
 headless: true  # This file represents a page section.
 weight: 20
-title: Lab Members
+title: Pets of the Misinformation Lab
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
-    - Researchers
-    - PhD Students
-    - Administration
-    - Visitors
-    - Alumni
+    - Cats
+    - Dogs
+    - Horses
 design:
   # Show user's social networking links? (true/false)
   show_social: false
@@ -24,4 +21,3 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: true
 ---
-Visit the pets page for information about the [pets of the misinformation lab](./pets/).
