@@ -1,6 +1,6 @@
 ---
 title: The Misinformation Lab is hiring!
-date: 2020-04-07T05:42:00.000Z
+date: 2020-04-06T00:42:00.000Z
 draft: false
 featured: false
 image:
