@@ -1,5 +1,5 @@
 ---
-title: Yinhan Lin
+title: Nicholas Riggs
 avatar_filename: ""
 social: []
 superuser: false
