@@ -1,9 +1,9 @@
 ---
-title: Penny Lane (aka Batcat)
+title: Izzy
 avatar_filename: ""
 social: []
 superuser: false
-user_groups: ["Pets", "Cats"]
+user_groups: ["Pets", "Dogs"]
 ---
 
 Associated Human: Anna Klas
