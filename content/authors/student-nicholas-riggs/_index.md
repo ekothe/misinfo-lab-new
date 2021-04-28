@@ -7,6 +7,6 @@ user_groups: ["4th year 2021"]
 ---
 4th Year Student – Deakin University – 2021
 
-Project Title:  Anxiety and mixed emotions: Personality predictors of emotional responses to social distancing during a pandemic
+Project Title: Investigating Patterns in Conventional and unconventional Beliefs
 
-Supervisor: Kate Barford
+Supervisor: Mathew Ling
