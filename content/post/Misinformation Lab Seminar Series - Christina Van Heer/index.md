@@ -14,7 +14,7 @@ In our May 2021 series talk, we were joined by the brilliant **Christina Van Hee
 
 The title of Chris' talk was: ***Local versus global optimisation of error in probabilistic learning***
 
-<iframe src="https://drive.google.com/file/d/1CT3GvQl7wNkc0EJxYgBKHiZJMcWSwMay/preview" width="720" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1CT3GvQl7wNkc0EJxYgBKHiZJMcWSwMay/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
 The Misinformation Lab Seminar Series is a monthly event open to all members and friends of the lab. The seminar series is primarily motivated by a shared curiosity about the myriad of awesome perspectives and insights out there on information processing, behaviour change, open science, and promoting social progress. Our aim is to invite speakers from a diverse range of interests, lived-experiences, and research backgrounds to deliver their insights and perspectives on topics that they are excited about! The series also aims to provide our Psychology students at the undergraduate level to with the opportunity to hear, and engage with, talks by real-world researchers.
