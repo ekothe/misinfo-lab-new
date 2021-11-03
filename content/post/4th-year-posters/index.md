@@ -1,7 +1,7 @@
 ---
 title: 4th year students present their research at the 2021 Poster Conference
 subtitle: ""
-date: 2021-11-04T03:43:00.613Z
+date: 2021-11-01T03:43:00.613Z
 draft: false
 featured: false
 image:
