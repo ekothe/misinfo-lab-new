@@ -7,6 +7,6 @@ user_groups: ["4th year 2021"]
 ---
 4th Year Student – Deakin University – 2021
 
-Project Title:  How do Loss and Gain Messages Impact COVID-19-related Outcomes and Emotions?
+Project Title:  A Qualitative Examination of Australians’ Conceptualisation of Efficacy in the Context of Climate Action
 
 Supervisor: Anna Klas
