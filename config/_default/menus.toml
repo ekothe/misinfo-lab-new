@@ -28,6 +28,11 @@
   url = "#publications"
   weight = 30
 
+[[main]]
+  name = "Seminar Series"
+  url = "seminar-series"
+  weight = 60
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
