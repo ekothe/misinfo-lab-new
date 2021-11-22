@@ -2,7 +2,7 @@
 title: The Misinformation Lab bids goodbye to Josh Rhee
 subtitle: ""
 date: 2021-11-20T03:43:00.613Z
-draft: true
+draft: false
 featured: false
 image:
   filename: ""
