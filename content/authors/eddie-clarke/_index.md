@@ -5,4 +5,4 @@ social: []
 superuser: false
 user_groups: ["Researchers"]
 ---
-Eddie Clarke is a Lecturer at Federation University and the leader of the Lab’s Ideology and Motivated Reasoning stream. Dr Clarke is interested in the effects of ideology, partisanship and politically-motivated reasoning on science-based issues. He also has an interest in understanding how system threat perception affects people’s willingness to engage in and support system change, specifically as it pertains to climate change mitigation.
+Eddie Clarke is a Postdoctoral researcher in the Social Psychology team at Philipps-Universität Marburg, in Germany. Dr Clarke is interested in the effects of ideology, partisanship and politically-motivated reasoning on science-based issues, and specifically climate change. He also has an interest in understanding how system threat perception affects people’s willingness to engage in and support system change, specifically as it pertains to climate change mitigation and adaptation.
