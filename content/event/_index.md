@@ -13,4 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-A full list of historical talks from the lab is still under construction
+
