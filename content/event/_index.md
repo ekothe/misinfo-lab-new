@@ -1,5 +1,5 @@
 ---
-title: All Talks
+title: Misinformation Lab Seminar Series Talks
 cms_exclude: true
 
 # View.

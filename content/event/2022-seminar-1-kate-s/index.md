@@ -9,7 +9,7 @@ authors:
 date: "2022-02-11T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-26T00:00:00Z"
+publishDate: "2021-11-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2021-11-26T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["0"]
 
-location: This talk will be conducted via Zoom
+location: via Zoom
 ---
 
 ![KSievert](KSievert.jpg)
