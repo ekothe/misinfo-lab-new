@@ -11,6 +11,7 @@ content:
     - Principal Investigators
     - Researchers
     - PhD Students
+    - Friends of the Lab
     - Administration
     - Visitors
     - Alumni
