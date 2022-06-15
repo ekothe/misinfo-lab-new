@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-{{< tweet 988263955251396608 >}}
+{{< tweet user = "annaklas_", id = "988263955251396608" >}}
